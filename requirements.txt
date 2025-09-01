@@ -14,3 +14,4 @@ spacy>=3.7.0
 pandas>=2.1.0
 numpy>=1.24.0
 python-multipart>=0.0.6
+genai
